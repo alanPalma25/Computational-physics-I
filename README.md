@@ -5,4 +5,4 @@ Here is all the coursework completed during Computational Physics I, taught by P
 - This repository contains all assignments, quizzes, and exams completed during the course. Additionally, each section includes the respective marked coursework for all notebooks.
 - The entire course was conducted using Python.
 
-**Note:** It is important to mention that all the solved problems and exercises were designed by Prof. Wladimir Banda and were typically assigned to be completed within a week.
+**Note:** It is important to mention that all the problems and exercises were designed by Prof. Wladimir Banda and were typically assigned to be completed within a week.
